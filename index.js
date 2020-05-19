@@ -29,4 +29,3 @@ document.addEventListener("keydown", function(e) {
     moveDodgerRight();
   }
 });
-
